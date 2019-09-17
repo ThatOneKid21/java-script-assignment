@@ -14,18 +14,18 @@
 <body>
 
   <header><h1>JavaScript Assignments</h1></header>
-
+     <nav>
        <p>The list of assignments</p>
        <ol>
-         <li> <a href="child_pages/Landscape or portrait.html">Landscape or portrait</a>
-         <li> <a href="child_pages/Max of Two Numbers.html">Max of Two Numbers</a>
-         <li> <a href="child_pages/Modulus Assignemnt.html">Modulus Assignemnt</a>
-         <li> <a href="child_pages/Ordering Grades.html">Ordering Grades</a>
-         <li> <a href="child_pages/Demerit Points.html">Demerit Points</a>
-         <li> <a href="child_pages/FizzBuzz.html">FizzBuzz</a>
-         <li> <a href="child_pages/Greeting Someone.html">Greeting Someone</a>
+         <li> <a href="">Landscape or portrait</a>
+         <li> <a href="">Max of Two Numbers</a>
+         <li> <a href="">Modulus Assignemnt</a>
+         <li> <a href="">Ordering Grades</a>
+         <li> <a href="">Demerit Points</a>
+         <li> <a href="">FizzBuzz</a>
+         <li> <a href="">Greeting Someone</a>
        </ol>
-     <nav></nav>
+     </nav>
      <aside></aside>
      <section><article></<article></article></section>
 
