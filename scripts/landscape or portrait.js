@@ -16,6 +16,8 @@ function testNaN (number) {
 function main() {
   //console.log("it works");
 
+  let
+
   let firstNumber, secondNumber, text;
 
   //get the Width-value from id=textfield1
@@ -28,4 +30,12 @@ function main() {
   //testNaN (secondNumber);
   document.getElementByID("validityTest2").innerHTML = alert ( testNaN (secondNumber);
   document.getElementByID("validityTest2").innerHTML = testNaN (secondNumber);
+
+  if (stop == true) {
+    document.getElementByID("answer").innerHTML = "Restart the example, an Width or Hight needs to be a number."
+  } else {
+    console.log("the display geomitry is", geomitry (firstNumber, secondNumber) );
+    document.getElementByID('answer').innerHTML = "this display is ", + geomitry (firstNumber, secondNumber);
+  }
+
 }
